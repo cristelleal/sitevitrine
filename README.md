@@ -11,7 +11,4 @@ Stack : HTML, CSS3 and JS vanilla without frameworks.
 )
 
 
-## Feedback
-
-If you have any feedback, please reach out to me at cristelle.almodar@epsi.fr
 
