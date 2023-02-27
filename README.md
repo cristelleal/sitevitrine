@@ -1,4 +1,4 @@
-# Portfolio 
+# Portfolio website
 
 Personal portfolio created in december 2022.
 Stack : HTML, CSS3 and JS vanilla without frameworks.
